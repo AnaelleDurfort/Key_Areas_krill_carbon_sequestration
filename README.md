@@ -15,7 +15,7 @@ Key words: carbon sequestration, sequestration time, carbon sink, krill fecal pe
 
 ## Open Reaserch Statement:
 
-The files located in the "data_envir" folder are not uploaded in this repository because they are two heavy. Instead, you can find them in the zip file "data_envir" the Zenodo repository assciated with the repository release.
+The files located in the "data_envir" folder are not uploaded in this repository because they are two heavy. Instead, you can find them in the zip file "data_envir" the Zenodo repository associated with the repository release.
 Besides, some data are not publicly available: acces krill fishery data (krill catch) must be requested to the CCAMLR secretariat (https://www.ccamlr.org/en/organisation/secretariat).
 
 
